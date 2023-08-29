@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Biskuit",
+      "price": 6000,
+      "stock": 5,
+      "imageUrl": "https://images.tokopedia.net/img/cache/700/OJWluG/2022/9/27/cad3c935-0cb5-49ff-aba0-0aff5bc1fc45.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chips",
+      "price": 8000,
+      "stock": 4,
+      "imageUrl": "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/7/4/45ac4b3e-ae07-4d1b-a89d-45a4ad161e74.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Oreo",
+      "price": 10000,
+      "stock": 3,
+      "imageUrl": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/12/4/a37245c2-64ab-4830-96ce-c319dab19d22.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tango",
+      "price": 12000,
+      "stock": 2,
+      "imageUrl": "https://images.tokopedia.net/img/cache/700/OJWluG/2022/9/27/ad9fcbf4-9f71-41a9-a2ce-110558fc5f1c.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cokelat",
+      "price": 15000,
+      "stock": 1,
+      "imageUrl": "https://images.tokopedia.net/img/cache/700/OJWluG/2023/2/15/e992ace7-903c-44c1-b77d-77990e2c2ea2.jpg"
+    }
+  ]
+}
